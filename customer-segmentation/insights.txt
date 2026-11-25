@@ -1,0 +1,16 @@
+CUSTOMER SEGMENTATION - KEY INSIGHTS
+========================================
+Customers analysed: 600 | Segments found: 3 | Silhouette: 0.610
+
+Segment 0 - Frequent Young Shoppers (150 customers, 25.0%)
+  Avg age 24.0, income 29.7k, order value 34.1, frequency 29.8, recency 9.9 days
+  Strategy: Social-media campaigns, referral rewards, trend drops, app push offers.
+
+Segment 1 - High-Value Loyalists (150 customers, 25.0%)
+  Avg age 44.7, income 95.1k, order value 157.6, frequency 21.5, recency 14.0 days
+  Strategy: VIP program, early access, premium bundles, personal outreach.
+
+Segment 2 - At-Risk / Lapsed (300 customers, 50.0%)
+  Avg age 42.8, income 50.7k, order value 42.5, frequency 5.0, recency 150.0 days
+  Strategy: Win-back emails, 'we miss you' discount, survey to learn why they left.
+

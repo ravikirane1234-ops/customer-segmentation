@@ -1,0 +1,4 @@
+Segment,Age,Annual_Income,Spending_Score,Purchase_Frequency,Avg_Order_Value,Recency_Days,Customers,Share_%,Top_Category,Name
+0,24.0,29.7,75.2,29.8,34.1,9.9,150,25.0,Fashion,Frequent Young Shoppers
+1,44.7,95.1,79.0,21.5,157.6,14.0,150,25.0,Electronics,High-Value Loyalists
+2,42.8,50.7,22.3,5.0,42.5,150.0,300,50.0,Grocery,At-Risk / Lapsed
